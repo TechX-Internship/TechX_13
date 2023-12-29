@@ -1,0 +1,65 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200;300;400;500;600;700;800;900&display=swap');
+
+
+* {
+  list-style: none !important;
+  text-decoration: none !important;
+}
+.main {
+  background: #CA3D26;
+  padding-bottom: 4rem;
+}
+.rectngle {
+  margin-left: auto;
+  margin-top: 2rem;
+  width: 950px;
+  height: 790px;
+  flex-shrink: 0;
+}
+.wel {
+  color: #FEC007;
+  font-family: 'Dancing Script', cursive;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 4rem;
+  line-height: normal;
+}
+.alpha {
+  margin-left: 17rem;
+}
+.l-letter {
+  margin-top: 15rem;
+}
+.tag1 {
+  color: #FAFAFA;
+  font-family: 'Raleway', sans-serif;
+  font-size: 74px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.sketch {
+  position: absolute;
+  bottom: -7.5%;
+}
+.rate {
+  margin-top: 7rem;
+}
+.pos-1 {
+  position: absolute;
+  font-family: 'Raleway', sans-serif;
+  bottom: 18rem; left: 23rem;
+}
+.prew {
+  font-family: 'Raleway', sans-serif;
+  line-height: normal;
+}
+.next {
+  font-family: 'Raleway', sans-serif;
+  line-height: normal;
+}
+/* ------ main end ------ */
